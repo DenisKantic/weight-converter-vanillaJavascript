@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
     background: #2B303A;
 }
 
@@ -55,4 +56,14 @@
     background: none;
     padding: 20px 20px;
     font-size: 20px;
+}
+
+#gValue, #tonValue, #lbsValue{
+    
+    display: inherit;
+    background: none;
+    margin-top: -30px;
+    font-size: 15px;
+    padding: 0 20px;
+    font-family: 'Roboto', sans-serif;
 }
