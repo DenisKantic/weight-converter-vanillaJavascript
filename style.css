@@ -19,3 +19,15 @@
     color: #fff;
     outline: none;
 }
+
+#inputValue{
+
+    width: 480px;
+    height: 50px;
+    outline: none;
+    background: #fff;
+    border: none;
+    border-radius: 8px;
+    margin: 20px 0;
+    cursor: pointer;
+}
