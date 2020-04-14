@@ -4,4 +4,18 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    background: #2B303A;
+}
+
+.container{
+
+    width: 500px;
+    margin: 60px auto;
+}
+
+.container h1{
+
+    font-size: 55px;
+    color: #fff;
+    outline: none;
 }
