@@ -58,6 +58,20 @@
     font-size: 20px;
 }
 
+.resultBox1{
+
+    background: #08A045;
+}
+
+.resultBox2{
+
+    background: #00CFC1;
+}
+
+.resultBox3{
+
+    background: #D6C9C9;
+}
 #gValue, #tonValue, #lbsValue{
     
     display: inherit;
